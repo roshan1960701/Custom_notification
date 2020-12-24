@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975109234483",
+    "project_id": "custom-notification-93db5",
+    "storage_bucket": "custom-notification-93db5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975109234483:android:aa97e06966498f8062e846",
+        "android_client_info": {
+          "package_name": "com.mzw.flutter_demo_notification_bar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975109234483-jhc4q5r2d60fgck27sc4mjj2l08c47p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNWVO-LUVJGfzWS-dhMoe5IxcGAu7BvDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975109234483-jhc4q5r2d60fgck27sc4mjj2l08c47p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
